@@ -2,7 +2,7 @@
 
 I'm a Computer Science Student at KTH :sweden: and CentraleSupélec :fr: specializing in Artificial Intelligence and Machine Learning.
 
-I'm currently looking for a Master's Thesis internship starting June 2023 in any of the following fields:
+I'm currently looking for a Master's Thesis internship in Stockholm starting June 2023 in any of the following fields:
 - :brain: Deep Learning
 - :robot: Reinforcement Learning
 - :racing_car: Autonomous driving

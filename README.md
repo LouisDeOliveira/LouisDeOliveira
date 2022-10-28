@@ -10,7 +10,7 @@ I'm currently looking for a Master's Thesis internship in Stockholm starting Jun
 
 # Current Projects
 At the moment I am mainly working on these projects:
-- [TMAI](https://github.com/LouisDeOliveira/TMAI) : Interfacing the game Trackmania in real-time to use it as a Reinforcement Learning environnement. I'm using OpenCV to extract the view from the game and create the observation for the environnement and PyTorch for the RL part Learning about all the different RL methods, sending inputs through the windows API, running multiple Threads and Processes etc...
+- [TMAI](https://github.com/LouisDeOliveira/TMAI) : Interfacing the game Trackmania in real-time to use it as a Reinforcement Learning environnement. I'm using OpenCV to extract the view from the game and create the observation for the environnement and PyTorch for the RL part. Learning about all the different RL methods, sending inputs through the windows API, running multiple Threads and Processes etc...
  - [JAVA-ML](https://github.com/LouisDeOliveira/JAVA-ML) : Implementing Deep-Learning algorithms in pure java from scratch.
 
 # Links

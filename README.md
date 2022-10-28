@@ -14,7 +14,7 @@ At the moment I am mainly working on these projects:
  - [JAVA-ML](https://github.com/LouisDeOliveira/JAVA-ML) : Implementing Deep-Learning algorithms in pure java from scratch.
 
 # Links
-[LinkedIn](
+[LinkedIn](https://www.linkedin.com/in/louis-de-oliveira/)
 
 <!--
 **LouisDeOliveira/LouisDeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

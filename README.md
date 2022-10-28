@@ -3,10 +3,10 @@
 I'm a Computer Science Student at KTH :sweden: and CentraleSupélec :fr: specializing in Artificial Intelligence and Machine Learning.
 
 I'm currently looking for a Master's Thesis internship in Stockholm starting June 2023 in any of the following fields:
-- :brain: Deep Learning
-- :robot: Reinforcement Learning
-- :racing_car: Autonomous driving
-- :eye: Computer vision
+:brain: Deep Learning
+:robot: Reinforcement Learning
+:racing_car: Autonomous driving
+:eye: Computer vision
 
 # Current Projects
 At the moment I am mainly working on these projects:

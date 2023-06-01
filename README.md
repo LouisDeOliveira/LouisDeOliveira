@@ -2,16 +2,12 @@
 
 I'm a Computer Science Student at KTH :sweden: and CentraleSupélec :fr: specializing in Artificial Intelligence and Machine Learning.
 
-I'm currently looking for a Master's Thesis internship in Stockholm starting June 2023 in any of the following fields:
+I'm interested in the following fields.
 - :brain: Deep Learning
 - :robot: Reinforcement Learning
 - :racing_car: Autonomous driving
 - :eye: Computer vision
-
-# Current Projects
-At the moment I am mainly working on these projects:
-- [TMAI](https://github.com/LouisDeOliveira/TMAI) : Interfacing the game Trackmania in real-time to use it as a Reinforcement Learning environnement. I'm using OpenCV to extract the view from the game and create the observation for the environnement and PyTorch for the RL part. Learning about all the different RL methods, sending inputs through the windows API, running multiple Threads and Processes etc...
- - [JAVA-ML](https://github.com/LouisDeOliveira/JAVA-ML) : Implementing Deep-Learning algorithms in pure java from scratch.
+- 🖥️ Computer graphics
 
 # Links
 [LinkedIn](https://www.linkedin.com/in/louis-de-oliveira/)

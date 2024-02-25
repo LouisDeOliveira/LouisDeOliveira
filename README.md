@@ -1,6 +1,6 @@
 ### Hi, I'm Louis De Oliveira
 
-I'm a Computer Science Student at KTH :sweden: and CentraleSupélec :fr: specializing in Artificial Intelligence and Machine Learning.
+I'm a R&D Engineer working at Ubisoft La Forge in Bordeaux.
 
 I'm interested in the following fields.
 - :brain: Deep Learning

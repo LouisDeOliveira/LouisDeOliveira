@@ -1,6 +1,6 @@
 ### Hi, I'm Louis De Oliveira
 
-I'm a R&D Engineer working at Ubisoft La Forge in Bordeaux.
+I'm a future PhD working at INRIA team MANAO in Bordeaux.
 
 I'm interested in the following fields.
 - :brain: Deep Learning

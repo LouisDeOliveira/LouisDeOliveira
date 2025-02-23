@@ -1,13 +1,6 @@
 ### Hi, I'm Louis De Oliveira
 
-I'm a future PhD student working at INRIA team MANAO in Bordeaux.
-
-I'm interested in the following fields.
-- :brain: Deep Learning
-- :robot: Reinforcement Learning
-- :racing_car: Autonomous driving
-- :eye: Computer vision
-- 🖥️ Computer graphics
+I'm a PhD student working at Ubisoft and INRIA team MANAO in Bordeaux.
 
 # Links
 [LinkedIn](https://www.linkedin.com/in/louis-de-oliveira/)

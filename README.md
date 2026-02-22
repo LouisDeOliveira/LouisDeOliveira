@@ -1,6 +1,7 @@
 ### Hi, I'm Louis De Oliveira
 
 I'm a PhD student working at Ubisoft and INRIA team MANAO in Bordeaux.
+My main research interests lie at the intersection of Machine Learning and Computer Graphics.
 
 # Links
 [LinkedIn](https://www.linkedin.com/in/louis-de-oliveira/)
